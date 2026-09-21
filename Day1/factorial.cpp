@@ -13,4 +13,5 @@ int main(){
 
     }
     cout<<"factorial is"<<result;
+    return 0;
 }
